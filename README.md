@@ -1,4 +1,4 @@
-# Interview Simulation Chatbot 
+# AI-Interview Simulation Chatbot 
 
 This project is an **AI-powered mock interview tool** built with **Streamlit** and **OpenAI’s GPT-4o** that helps job seekers practice and improve their interview skills. The chatbot simulates role-specific interviews, adapts questions based on user details, and provides instant feedback with a performance score.  
 
